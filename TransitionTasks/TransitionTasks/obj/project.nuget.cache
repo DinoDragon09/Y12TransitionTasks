@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhhNnWggb4Gb34W+NHG9Q/KZogulG+CLTkfU95XEAvGRx8X1X5ajdM2z8ceJWZu/ti6KXznqrPABlIe4RndjnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hfran\\School\\Y12\\Computing\\TransitionTasks\\TransitionTasks\\TransitionTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hfran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

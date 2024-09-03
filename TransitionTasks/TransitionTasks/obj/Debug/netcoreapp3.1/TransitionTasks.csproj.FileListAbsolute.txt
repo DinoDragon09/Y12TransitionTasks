@@ -1,0 +1,14 @@
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.csproj.AssemblyReference.cache
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.AssemblyInfoInputs.cache
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.AssemblyInfo.cs
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.csproj.CoreCompileInputs.cache
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.exe
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.deps.json
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.runtimeconfig.json
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.runtimeconfig.dev.json
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.dll
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\bin\Debug\netcoreapp3.1\TransitionTasks.pdb
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.dll
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.pdb
+C:\Users\hfran\School\Y12\Computing\TransitionTasks\TransitionTasks\obj\Debug\netcoreapp3.1\TransitionTasks.genruntimeconfig.cache
